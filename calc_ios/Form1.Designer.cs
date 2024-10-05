@@ -89,7 +89,7 @@
             b_multi.FlatStyle = FlatStyle.Flat;
             b_multi.Font = new Font("Microsoft Sans Serif", 44F, FontStyle.Bold);
             b_multi.ForeColor = Color.White;
-            b_multi.Image = Properties.Resources.multi;
+            b_multi.Image =mac_calc.Properties.Resources.multi;
             b_multi.Location = new Point(267, 294);
             b_multi.Margin = new Padding(0);
             b_multi.Name = "b_multi";
@@ -228,7 +228,7 @@
             b6.FlatStyle = FlatStyle.Flat;
             b6.Font = new Font("Microsoft Sans Serif", 44F, FontStyle.Bold);
             b6.ForeColor = Color.White;
-            b6.Image = Properties.Resources._6;
+            b6.Image =mac_calc.Properties.Resources._6;
             b6.Location = new Point(178, 363);
             b6.Name = "b6";
             b6.Size = new Size(88, 68);
@@ -383,7 +383,7 @@
             // 
             b_close.Anchor = AnchorStyles.Top | AnchorStyles.Right;
             b_close.BackColor = Color.Transparent;
-            b_close.BackgroundImage = Properties.Resources.close1;
+            b_close.BackgroundImage =mac_calc.Properties.Resources.close1;
             b_close.BackgroundImageLayout = ImageLayout.Stretch;
             b_close.FlatAppearance.BorderSize = 0;
             b_close.FlatAppearance.MouseDownBackColor = Color.Transparent;
@@ -406,7 +406,7 @@
             // 
             b_minimize.Anchor = AnchorStyles.Top | AnchorStyles.Right;
             b_minimize.BackColor = Color.Transparent;
-            b_minimize.BackgroundImage = Properties.Resources.minimize;
+            b_minimize.BackgroundImage =mac_calc.Properties.Resources.minimize;
             b_minimize.BackgroundImageLayout = ImageLayout.Stretch;
             b_minimize.FlatAppearance.BorderSize = 0;
             b_minimize.FlatAppearance.MouseDownBackColor = Color.Transparent;
