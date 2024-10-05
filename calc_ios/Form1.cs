@@ -114,6 +114,9 @@ namespace calc_ios
         }
         private void Percent_Cick(object? sender, EventArgs e)
         {
+            try
+            {
+
             double num1 = double.Parse(label1.Text);
             double num2 = double.Parse(label2.Text);
 
@@ -123,6 +126,7 @@ namespace calc_ios
             }
 
             label1.Text = ((num2 / 100) * num1).ToString();
+            } catch {}
         }
 
         private void nigative_Click(object sender, EventArgs e)
@@ -179,7 +183,7 @@ namespace calc_ios
                 label2.Text = "";
                 label3.Text = "";
             }
-            catch (Exception) { }
+            catch { }
         }
 
         private System.EventHandler OperatorButton_Click(string op)
