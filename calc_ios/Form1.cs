@@ -75,14 +75,21 @@ namespace calc_ios
                         return;
                     }
                     label1.Text += value + "";
-                } catch {
+                }
+                catch
+                {
                     char[] supportedOp = ['+', '*', '-', '/'];
                     if (!supportedOp.Contains(e.KeyChar)) return;
+                    if (label3.Text != "")
+                    {
+                        label3.Text = e.KeyChar + "";
+                        return;
+                    }
                     label3.Text = e.KeyChar + "";
                     label2.Text = label1.Text;
                     label1.Text = "";
                 }
-                
+
             };
         }
         private void FormMain_MouseDown(object sender, MouseEventArgs e)
@@ -179,6 +186,11 @@ namespace calc_ios
         {
             return (object _, EventArgs _) =>
             {
+                if (label3.Text != "")
+                {
+                    label3.Text = op;
+                    return;
+                }
                 label3.Text = op;
                 label2.Text = label1.Text;
                 label1.Text = "";
@@ -208,7 +220,7 @@ namespace calc_ios
 
         private void b_close_MouseLeave(object sender, EventArgs e)
         {
-            b_close.BackgroundImage =mac_calc.Properties.Resources.close1;
+            b_close.BackgroundImage = mac_calc.Properties.Resources.close1;
         }
 
         private void b_close_Click(object sender, EventArgs e)
@@ -218,19 +230,20 @@ namespace calc_ios
 
         private void b_mini_MouseHover(object sender, EventArgs e)
         {
-            b_minimize.BackgroundImage =mac_calc.Properties.Resources.minmize_hover;
+            b_minimize.BackgroundImage = mac_calc.Properties.Resources.minmize_hover;
 
         }
 
         private void b_mini_MouseLeave(object sender, EventArgs e)
         {
-            b_minimize.BackgroundImage =mac_calc.Properties.Resources.minimize;
+            b_minimize.BackgroundImage = mac_calc.Properties.Resources.minimize;
         }
 
         private void b_mini_Click(object sender, EventArgs e)
         {
             this.WindowState = FormWindowState.Minimized;
         }
+
     }
 }
 

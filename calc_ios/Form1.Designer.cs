@@ -89,7 +89,7 @@
             b_multi.FlatStyle = FlatStyle.Flat;
             b_multi.Font = new Font("Microsoft Sans Serif", 44F, FontStyle.Bold);
             b_multi.ForeColor = Color.White;
-            b_multi.Image =mac_calc.Properties.Resources.multi;
+            b_multi.Image = mac_calc.Properties.Resources.multi;
             b_multi.Location = new Point(267, 294);
             b_multi.Margin = new Padding(0);
             b_multi.Name = "b_multi";
@@ -228,7 +228,7 @@
             b6.FlatStyle = FlatStyle.Flat;
             b6.Font = new Font("Microsoft Sans Serif", 44F, FontStyle.Bold);
             b6.ForeColor = Color.White;
-            b6.Image =mac_calc.Properties.Resources._6;
+            b6.Image = mac_calc.Properties.Resources._6;
             b6.Location = new Point(178, 363);
             b6.Name = "b6";
             b6.Size = new Size(88, 68);
@@ -304,9 +304,8 @@
             label1.ForeColor = Color.White;
             label1.Location = new Point(17, 157);
             label1.Name = "label1";
-            label1.Size = new Size(45, 54);
+            label1.Size = new Size(0, 54);
             label1.TabIndex = 18;
-            label1.Text = "0";
             // 
             // label2
             // 
@@ -315,9 +314,8 @@
             label2.ForeColor = Color.White;
             label2.Location = new Point(17, 92);
             label2.Name = "label2";
-            label2.Size = new Size(45, 54);
+            label2.Size = new Size(0, 54);
             label2.TabIndex = 19;
-            label2.Text = "0";
             // 
             // label3
             // 
@@ -326,9 +324,8 @@
             label3.ForeColor = Color.White;
             label3.Location = new Point(301, 157);
             label3.Name = "label3";
-            label3.Size = new Size(45, 54);
+            label3.Size = new Size(0, 54);
             label3.TabIndex = 20;
-            label3.Text = "0";
             // 
             // b_div
             // 
@@ -383,7 +380,7 @@
             // 
             b_close.Anchor = AnchorStyles.Top | AnchorStyles.Right;
             b_close.BackColor = Color.Transparent;
-            b_close.BackgroundImage =mac_calc.Properties.Resources.close1;
+            b_close.BackgroundImage = mac_calc.Properties.Resources.close1;
             b_close.BackgroundImageLayout = ImageLayout.Stretch;
             b_close.FlatAppearance.BorderSize = 0;
             b_close.FlatAppearance.MouseDownBackColor = Color.Transparent;
@@ -406,7 +403,7 @@
             // 
             b_minimize.Anchor = AnchorStyles.Top | AnchorStyles.Right;
             b_minimize.BackColor = Color.Transparent;
-            b_minimize.BackgroundImage =mac_calc.Properties.Resources.minimize;
+            b_minimize.BackgroundImage = mac_calc.Properties.Resources.minimize;
             b_minimize.BackgroundImageLayout = ImageLayout.Stretch;
             b_minimize.FlatAppearance.BorderSize = 0;
             b_minimize.FlatAppearance.MouseDownBackColor = Color.Transparent;

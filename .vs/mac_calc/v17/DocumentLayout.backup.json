@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\salem\\source\\repos\\calc_ios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2335A2E6-FD7C-479D-A3FF-6121F7E764B3}|calc_ios\\mac_calc.csproj|c:\\users\\salem\\source\\repos\\calc_ios\\calc_ios\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2335A2E6-FD7C-479D-A3FF-6121F7E764B3}|calc_ios\\mac_calc.csproj|solutionrelative:calc_ios\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2335A2E6-FD7C-479D-A3FF-6121F7E764B3}|calc_ios\\mac_calc.csproj|c:\\users\\salem\\source\\repos\\calc_ios\\calc_ios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2335A2E6-FD7C-479D-A3FF-6121F7E764B3}|calc_ios\\mac_calc.csproj|solutionrelative:calc_ios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2335A2E6-FD7C-479D-A3FF-6121F7E764B3}|calc_ios\\mac_calc.csproj|c:\\users\\salem\\source\\repos\\calc_ios\\calc_ios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2335A2E6-FD7C-479D-A3FF-6121F7E764B3}|calc_ios\\mac_calc.csproj|solutionrelative:calc_ios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2335A2E6-FD7C-479D-A3FF-6121F7E764B3}|calc_ios\\mac_calc.csproj|c:\\users\\salem\\source\\repos\\calc_ios\\calc_ios\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2335A2E6-FD7C-479D-A3FF-6121F7E764B3}|calc_ios\\mac_calc.csproj|solutionrelative:calc_ios\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2335A2E6-FD7C-479D-A3FF-6121F7E764B3}|calc_ios\\mac_calc.csproj|c:\\users\\salem\\source\\repos\\calc_ios\\calc_ios\\mac_calc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2335A2E6-FD7C-479D-A3FF-6121F7E764B3}|calc_ios\\mac_calc.csproj|solutionrelative:calc_ios\\mac_calc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{2335A2E6-FD7C-479D-A3FF-6121F7E764B3}|calc_ios\\mac_calc.csproj|c:\\users\\salem\\source\\repos\\calc_ios\\calc_ios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2335A2E6-FD7C-479D-A3FF-6121F7E764B3}|calc_ios\\mac_calc.csproj|solutionrelative:calc_ios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2335A2E6-FD7C-479D-A3FF-6121F7E764B3}|calc_ios\\calc_ios.csproj|C:\\Users\\salem\\source\\repos\\calc_ios\\calc_ios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2335A2E6-FD7C-479D-A3FF-6121F7E764B3}|calc_ios\\calc_ios.csproj|solutionrelative:calc_ios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2335A2E6-FD7C-479D-A3FF-6121F7E764B3}|calc_ios\\mac_calc.csproj|c:\\users\\salem\\source\\repos\\calc_ios\\calc_ios\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2335A2E6-FD7C-479D-A3FF-6121F7E764B3}|calc_ios\\mac_calc.csproj|solutionrelative:calc_ios\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{2335A2E6-FD7C-479D-A3FF-6121F7E764B3}|calc_ios\\mac_calc.csproj|c:\\users\\salem\\source\\repos\\calc_ios\\calc_ios\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2335A2E6-FD7C-479D-A3FF-6121F7E764B3}|calc_ios\\mac_calc.csproj|solutionrelative:calc_ios\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2335A2E6-FD7C-479D-A3FF-6121F7E764B3}|calc_ios\\mac_calc.csproj|c:\\users\\salem\\source\\repos\\calc_ios\\calc_ios\\mac_calc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2335A2E6-FD7C-479D-A3FF-6121F7E764B3}|calc_ios\\mac_calc.csproj|solutionrelative:calc_ios\\mac_calc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2335A2E6-FD7C-479D-A3FF-6121F7E764B3}|calc_ios\\mac_calc.csproj|c:\\users\\salem\\source\\repos\\calc_ios\\calc_ios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2335A2E6-FD7C-479D-A3FF-6121F7E764B3}|calc_ios\\mac_calc.csproj|solutionrelative:calc_ios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\salem\\source\\repos\\calc_ios\\calc_ios\\Program.cs",
               "RelativeDocumentMoniker": "calc_ios\\Program.cs",
@@ -51,8 +55,24 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\salem\\source\\repos\\calc_ios\\calc_ios\\Form1.cs",
+              "RelativeDocumentMoniker": "calc_ios\\Form1.cs",
+              "ToolTip": "C:\\Users\\salem\\source\\repos\\calc_ios\\calc_ios\\Form1.cs [Design]",
+              "RelativeToolTip": "calc_ios\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T04:13:28.696Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Resources.resx",
               "DocumentMoniker": "C:\\Users\\salem\\source\\repos\\calc_ios\\calc_ios\\Properties\\Resources.resx",
               "RelativeDocumentMoniker": "calc_ios\\Properties\\Resources.resx",
@@ -65,33 +85,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\salem\\source\\repos\\calc_ios\\calc_ios\\Form1.cs",
               "RelativeDocumentMoniker": "calc_ios\\Form1.cs",
-              "ToolTip": "C:\\Users\\salem\\source\\repos\\calc_ios\\calc_ios\\Form1.cs*",
-              "RelativeToolTip": "calc_ios\\Form1.cs*",
-              "ViewState": "AgIAALkAAAAAAAAAAAAAwNIAAAA4AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\salem\\source\\repos\\calc_ios\\calc_ios\\Form1.cs",
+              "RelativeToolTip": "calc_ios\\Form1.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAjwFUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T20:17:24.471Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\salem\\source\\repos\\calc_ios\\calc_ios\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "calc_ios\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\salem\\source\\repos\\calc_ios\\calc_ios\\Form1.Designer.cs*",
-              "RelativeToolTip": "calc_ios\\Form1.Designer.cs*",
-              "ViewState": "AgIAAHABAAAAAAAAAAAjwIEBAAA4AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\salem\\source\\repos\\calc_ios\\calc_ios\\Form1.Designer.cs",
+              "RelativeToolTip": "calc_ios\\Form1.Designer.cs",
+              "ViewState": "AgIAACQBAAAAAAAAAAAjwDQBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T20:27:12.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "mac_calc.csproj",
               "DocumentMoniker": "C:\\Users\\salem\\source\\repos\\calc_ios\\calc_ios\\mac_calc.csproj",
               "RelativeDocumentMoniker": "calc_ios\\mac_calc.csproj",
@@ -103,12 +123,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\salem\\source\\repos\\calc_ios\\calc_ios\\Form1.cs",
               "RelativeDocumentMoniker": "calc_ios\\Form1.cs",
